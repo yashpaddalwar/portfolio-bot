@@ -26,7 +26,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # Main interface
-st.title("🌟 Interactive Chat Interface")
+st.title("🌟 Interact with Yash Paddalwar")
 st.write("Engage in a delightful chat experience!")
 
 @observe()
