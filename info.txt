@@ -1,0 +1,133 @@
+#### Personal Information
+```Name: Yash Ajit Paddalwar
+Current Designation: Data Scientist - Generative AI
+Location: Navi Mumbai, Maharashtra
+Contact: +91 93240 66586
+Email: yash.paddalwar@gmail.com
+Portfolio: yashpaddalwar.com
+YouTube Channel: www.youtube.com/@ataglanceofficial```
+
+#### Education
+```Bachelor of Engineering (Information Technology)
+
+Institution: Pillai College of Engineering, New Panvel
+CGPA: 9.85
+Duration: 2019–2023
+Senior Secondary (XII)
+
+Institution: Terna Vidyalaya and Jr. College
+Grade: 80.77%
+Duration: 2017–2019
+Secondary (X)
+
+Institution: Terna Vidyalaya
+Grade: 89.20%
+Duration: 2016–2017```
+
+#### Certifications
+```Generative AI with LLMs (2024)
+deeplearning.ai
+
+Prompt Engineering for Vision Models (2024)
+deeplearning.ai
+
+Full Stack Data Science Program (2023)
+iNeuron.ai
+
+Machine Learning (2022)
+Goeduhub
+
+Data Science Specialization (2021)
+IBM```
+
+#### Experience
+```Data Scientist - Generative AI Engineer
+
+Company: Jio Platforms Limited (2023 – Present, Full-Time)
+Built advanced RAG systems for JioFiber, JioRoaming, HR Assistant, and Data Curio.
+Developed tools for data processing, such as PDF-to-markdown converters and JSON debuggers.
+Implemented solutions for knowledge graphs, scalable model deployment, and pipeline optimization.
+Focused on fine-tuning, performance improvement, hallucination resolution, and compliance.
+Data Science Intern
+
+#### Projects
+```
+1. Jio Fiber and Jio International Roaming AI Chatbot
+Built a robust retrieval-augmented generation (RAG) system from scratch,
+managing everything from data processing to deployment. Processed FAQs
+and numerical plan data, applied chunking strategies, and generated
+embeddings with open-source models, storing them in Milvus. Developed a
+pipeline that retrieves relevant data, handles follow-up questions using chat
+history, and rephrases queries for accuracy. Enhanced accuracy with
+Reciprocal Rank Fusion and advanced prompt engineering (Llama3,
+Mistral). Solved hallucination and jailbreaking issues, implemented
+feedback loops, and evaluated performance using Uptrain, monitored via
+Langfuse.
+
+2. Jio HR Assistant
+Developed a RAG system to handle employee HR queries within Jio's
+internal app. Built a custom tool to convert complex PDF data, including
+tables, into markdown format, significantly improving the bot's accuracy
+through proper chunking and markdown splitters. Ingested the processed
+data into a vector database and implemented advanced retrieval strategies
+with re-ranking and rank fusion. Created feedback-driven answer
+reconstruction based on user information, ensuring personalized responses.
+Evaluated performance using Uptrain and monitored results through
+Langfuse.
+
+3. Data Curio
+A project aimed at converting natural language queries into Hive queries.
+Worked on improving query generation for a system that converts natural
+language into Hive queries. Implemented a feedback prompt to help users
+understand why a query couldn’t be generated and guide them in making
+necessary adjustments. Created a custom JSON debugger to handle large
+datasets, automatically identifying errors and suggesting corrections, and
+ingested the processed data into MongoDB.
+
+4. Also worked on Azure DataBricks and other agentic framework lik magentic one of microsoft.
+```
+
+#### Hobbies
+
+```*   Technical Blog Writing
+*   Own AI YouTube Channel - Link
+*   Exploring Latest Technologies
+*   Cooking```
+
+#### Achievements
+
+```*   Best Student Award - PCE
+*   Secured Rank 1 in Project Expo - CSI
+*   Finalist - Institute Level Project Competition - PCE
+*   Python Certified - Hackerrank
+*   SQL Certified - Hackerrank
+*   Participated in Google-Hack2Skill Gen AI Hackathon
+*   Essay Writing - PCE```
+
+#### Extra Curricular
+
+```Technical Team Co-ordinator
+
+Held a variety of technical workshops, seminars, webinars, and study circles on trendy tech stacks like ML, Flutter, Android, etc
+
+Duration: 2020 - 2023```
+
+#### Technical Skills
+
+```*   Generative AI
+*   Prompt Engineering
+*   RAG / DSPy
+*   Vector Databases
+*   NLP
+*   ML / DL
+*   Python
+*   Docker / Kubernetes
+*   Git```
+
+#### Language
+
+```English        Hindi   Marathi
+89%            96%     100%
+
+German
+31%```
