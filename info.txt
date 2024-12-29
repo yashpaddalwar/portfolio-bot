@@ -2,24 +2,23 @@
 ```Name: Yash Ajit Paddalwar
 Current Designation: Data Scientist - Generative AI
 Location: Navi Mumbai, Maharashtra
-Contact: +91 93240 66586
+Contact: Send an email for it.
 Email: yash.paddalwar@gmail.com
-Portfolio: yashpaddalwar.com
-YouTube Channel: www.youtube.com/@ataglanceofficial```
+Portfolio: https://yash-paddalwar-portfolio.netlify.app/
+YouTube Channel: https://youtube.com/@ataglanceofficial```
 
 #### Education
-```Bachelor of Engineering (Information Technology)
-
+```- Bachelor of Engineering (Information Technology)
 Institution: Pillai College of Engineering, New Panvel
 CGPA: 9.85
 Duration: 2019–2023
-Senior Secondary (XII)
 
+- Senior Secondary (XII)
 Institution: Terna Vidyalaya and Jr. College
 Grade: 80.77%
 Duration: 2017–2019
-Secondary (X)
 
+- Secondary (X)
 Institution: Terna Vidyalaya
 Grade: 89.20%
 Duration: 2016–2017```
@@ -41,14 +40,14 @@ Data Science Specialization (2021)
 IBM```
 
 #### Experience
-```Data Scientist - Generative AI Engineer
-
-Company: Jio Platforms Limited (2023 – Present, Full-Time)
-Built advanced RAG systems for JioFiber, JioRoaming, HR Assistant, and Data Curio.
-Developed tools for data processing, such as PDF-to-markdown converters and JSON debuggers.
-Implemented solutions for knowledge graphs, scalable model deployment, and pipeline optimization.
-Focused on fine-tuning, performance improvement, hallucination resolution, and compliance.
-Data Science Intern
+```Jio Platforms Limited
+Duration: Oct 2023 - Present
+Mode: On-site
+Description:
+- Developed advanced RAG systems for Jio products like JioFiber, JioRoaming, HR Assistant, and Data Curio, using prompt engineering, LLMs, embeddings, and vector databases. Delivered full pipeline solutions from data ingestion to model deployment, focusing on safe AI practices and optimizing retrieval performance.
+- Built custom automation tools such as a PDF data extraction system for efficient RAG data preparation and a JSON debugger to streamline and automate manual processes, improving overall productivity and accuracy.
+- Led development of knowledge graphs and Langraph integrations, working on API integrations for seamless data flow between systems. Collaborated with cross-functional teams to deploy scalable models, leveraging Docker for containerization and ensuring efficient production environments.
+- Contributed to AI innovations by leading projects on pipeline optimization, model evaluation, and AI safety. Played a key role in hosting models, enhancing model performance, and ensuring compliance with safety standards for real-world applications.
 
 #### Projects
 ```
@@ -90,7 +89,7 @@ ingested the processed data into MongoDB.
 #### Hobbies
 
 ```*   Technical Blog Writing
-*   Own AI YouTube Channel - Link
+*   Own AI YouTube Channel - https://youtube.com/@ataglanceofficial
 *   Exploring Latest Technologies
 *   Cooking```
 
